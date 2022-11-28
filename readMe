@@ -1,0 +1,2 @@
+Esta é uma formula para a plataforma Salesforce para validar CPF e CNPJ no mesmo campo.
+A formula aceita o valor numérico sem pontos.
